@@ -3,4 +3,4 @@ Analysis of a Spotify dataset.
 
 *Applied Statistics* project between Politecnico di Milano and Sorbonne Université.
 
-Authors: Paolo Conti, Najwa Moursl, Federica Mattina and Nicolò Bonaldi.
+Authors: Najwa Moursli, Federica Mattina, Nicolò Bonaldi and Paolo Conti.
