@@ -1,5 +1,5 @@
 # What do you need to climb the charts?
-Analysis of a Spotify dataset in R.
+Analysis of a Spotify dataset (from Kaggle) in R.
 
 *Applied Statistics* project between Politecnico di Milano and Sorbonne Université.
 
